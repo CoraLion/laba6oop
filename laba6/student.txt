@@ -1,0 +1,5 @@
+1 Sangster Zarina Irekovna 20 5 1998 YFA 44535678 arhitectura 3 3154
+2 OBrien Dylan Dylanen 15 6 2001 kyrortna 54675565 texnology 1 1141
+3 Danet Maxence Fovel 6 9 2003 sovetskaya 95325557 arhitectura 1 1141
+4 Auriant Axel Lucas 10 2 1993 kape 87353656 nayka 1 1141
+5 Demoury Eliott Polaris 13 3 2004 da 24567843 lingvist 4 4146
